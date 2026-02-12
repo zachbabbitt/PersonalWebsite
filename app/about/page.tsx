@@ -12,7 +12,7 @@ export default function About() {
 
       <div className="prose prose-zinc dark:prose-invert max-w-none">
         <p className="text-lg text-zinc-600 dark:text-zinc-400 mb-6">
-          I'm a software engineer based in [Your Location]. I specialize in
+          I'm a software engineer based in Seattle Washington. I specialize in
           building web applications and have a passion for clean code and great
           user experiences.
         </p>
@@ -45,32 +45,32 @@ export default function About() {
           <li>
             Email:{" "}
             <a
-              href="mailto:your@email.com"
+              href="mailto:zacharylukebabbitt@gmail.com"
               className="text-zinc-900 dark:text-zinc-100 hover:underline"
             >
-              your@email.com
+              zacharylukebabbitt@gmail.com
             </a>
           </li>
           <li>
             GitHub:{" "}
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/zachbabbitt"
               target="_blank"
               rel="noopener noreferrer"
               className="text-zinc-900 dark:text-zinc-100 hover:underline"
             >
-              @yourusername
+              @zachbabbitt
             </a>
           </li>
           <li>
             LinkedIn:{" "}
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/zachbabbitt"
               target="_blank"
               rel="noopener noreferrer"
               className="text-zinc-900 dark:text-zinc-100 hover:underline"
             >
-              /in/yourusername
+              /in/zachbabbitt
             </a>
           </li>
         </ul>
